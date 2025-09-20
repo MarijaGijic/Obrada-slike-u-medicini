@@ -1,0 +1,7 @@
+data/
+results/
+*.png
+*.csv
+*.xlsx
+*.gif
+__pycache__/
