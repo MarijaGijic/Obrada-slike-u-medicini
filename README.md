@@ -1,2 +1,2 @@
 # Obrada-slike-u-medicini
-Projekat
+##----opis------
